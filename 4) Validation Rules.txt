@@ -1,0 +1,8 @@
+4) Validation Rules
+
+Validation rules are used to prevent invalid data.
+
+Examples:
+- Email is mandatory
+- Seats cannot exceed limit
+- Attendance cannot be negative

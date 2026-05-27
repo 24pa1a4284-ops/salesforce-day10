@@ -1,0 +1,5 @@
+1)System Overview
+
+This mini project is a College Management System developed 
+using Salesforce concepts. The system manages students, faculty, 
+courses, departments, registration, attendance, and notifications.

@@ -1,0 +1,8 @@
+5) Apex Logic
+
+Apex is used for advanced business logic.
+
+Examples:
+- Eligibility calculation
+- Bulk operations
+- Complex validations

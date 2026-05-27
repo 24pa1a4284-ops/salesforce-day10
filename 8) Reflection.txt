@@ -1,0 +1,5 @@
+8) Reflection
+
+After learning Salesforce, I realized that enterprise
+ software systems require integration between UI, backend logic,
+ automation, databases, and business processes to create reliable and scalable applications.

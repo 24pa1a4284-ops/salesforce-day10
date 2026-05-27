@@ -1,0 +1,9 @@
+7) Complete Data Flow
+
+Student clicks Register →
+LWC Screen →
+Validation Rules →
+Flow Automation →
+Trigger Execution →
+Database Storage →
+Notification Sent

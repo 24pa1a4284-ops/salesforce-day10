@@ -1,0 +1,9 @@
+2) CRM Concepts
+
+The project includes:
+- Student Management
+- Faculty Management
+- Course Management
+- Department Management
+
+These modules help organize and manage college operations efficiently.

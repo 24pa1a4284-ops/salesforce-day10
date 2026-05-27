@@ -1,0 +1,8 @@
+6)LWC UI
+
+Lightning Web Components are used to create user interfaces.
+
+Screens:
+- Student Dashboard
+- Faculty Dashboard
+- Registration Screen

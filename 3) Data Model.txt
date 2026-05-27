@@ -1,0 +1,18 @@
+3) Data Model
+
+Objects Used:
+- Student
+- Faculty
+- Course
+- Department
+
+Relationships:
+- Students linked with Courses
+- Faculty linked with Departments
+- Courses linked with Departments
+
+Fields:
+- Student Name
+- Email
+- Attendance
+- Course Seats
